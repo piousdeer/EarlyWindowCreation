@@ -1,0 +1,7 @@
+accessWidener v2 named
+
+accessible field net/minecraft/client/util/WindowProvider monitorTracker Lnet/minecraft/client/util/MonitorTracker;
+accessible field net/minecraft/client/util/Window eventHandler Lnet/minecraft/client/WindowEventHandler;
+accessible field net/minecraft/client/util/Window monitorTracker Lnet/minecraft/client/util/MonitorTracker;
+mutable field net/minecraft/client/util/Window eventHandler Lnet/minecraft/client/WindowEventHandler;
+mutable field net/minecraft/client/util/Window monitorTracker Lnet/minecraft/client/util/MonitorTracker;

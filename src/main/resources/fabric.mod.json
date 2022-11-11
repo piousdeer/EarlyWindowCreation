@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "earlywindowcreation",
+  "version": "0.1.0",
+
+  "name": "Early Window Creation",
+  "description": "Significantly reduces the delay before the Minecraft window appears",
+  "authors": [
+    "piousdeer"
+  ],
+  "contact": {
+    "homepage": "https://pious.dev/",
+    "sources": "https://github.com/piousdeer/EarlyWindowCreation"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/earlywindowcreation/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+    "earlywindowcreation.mixins.json"
+  ],
+  "accessWidener" : "earlywindowcreation.accesswidener",
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}
